@@ -18,6 +18,7 @@
 		9BA21B672493FA0D005B12A7 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA21B662493FA0D005B12A7 /* CustomTextField.swift */; };
 		9BA21B692493FB06005B12A7 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA21B682493FB06005B12A7 /* CustomButton.swift */; };
 		9BA21B6D2493FE72005B12A7 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA21B6C2493FE72005B12A7 /* LoginViewController.swift */; };
+		9BA21B6F2494007F005B12A7 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA21B6E2494007F005B12A7 /* SignupViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		9BA21B662493FA0D005B12A7 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		9BA21B682493FB06005B12A7 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 		9BA21B6C2493FE72005B12A7 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		9BA21B6E2494007F005B12A7 /* SignupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +160,7 @@
 			isa = PBXGroup;
 			children = (
 				9BA21B6C2493FE72005B12A7 /* LoginViewController.swift */,
+				9BA21B6E2494007F005B12A7 /* SignupViewController.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -301,6 +304,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9BA21B6D2493FE72005B12A7 /* LoginViewController.swift in Sources */,
+				9BA21B6F2494007F005B12A7 /* SignupViewController.swift in Sources */,
 				9BA21B3C2493F87E005B12A7 /* CommunereTest.xcdatamodeld in Sources */,
 				9BA21B692493FB06005B12A7 /* CustomButton.swift in Sources */,
 				9BA21B322493F87E005B12A7 /* AppDelegate.swift in Sources */,
